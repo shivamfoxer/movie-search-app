@@ -274,3 +274,12 @@ main{
 .dots .dot.active{
     border-color: orange;
 }
+.Movieio{
+    margin-right:auto;
+    margin-top: auto;
+}
+@media only screen and (max-width: 390px) {
+    .Movieio{
+        font-size: 100%;
+    }
+  }
